@@ -1,0 +1,9 @@
+body {
+  position: relative;
+}
+#winner {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  right: 10%;
+}
